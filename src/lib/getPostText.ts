@@ -122,7 +122,7 @@ export default async function getPostText() {
     "all i can do is smile",
     "i don't know if this is me at all or just some ghost i've me",
     "are we still friends? can we be friends?",
-    "i just need a quiet place where i can scream how i leave you",
+    "i just need a quiet place where i can scream how i love you",
     "someone to watch me die",
     "but if i'd seen you in the bakery, you probably wouldn't have seen me",
     "i'm the man who shot the moon and cried",
@@ -140,7 +140,8 @@ export default async function getPostText() {
     "if i trust the ground beneath my feet it just might stay to carry me",
     "a declaration, a promise on my teeth to never leave a word without a ceremony",
     "and if it lands on a bad number, then on well",
-    "what a drag to drag you down"
+    "what a drag to drag you down",
+    "you'd have to stop the world just to stop the feeling",
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
