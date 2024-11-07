@@ -142,6 +142,7 @@ export default async function getPostText() {
     "and if it lands on a bad number, then on well",
     "what a drag to drag you down",
     "you'd have to stop the world just to stop the feeling",
+    "and when it's time to go to bed, i'll keep the nightlight on"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
