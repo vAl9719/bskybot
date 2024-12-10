@@ -143,7 +143,20 @@ export default async function getPostText() {
     "what a drag to drag you down",
     "you'd have to stop the world just to stop the feeling",
     "and when it's time to go to bed, i'll keep the nightlight on",
-    "i am a soldier, i don't believe in anything"
+    "i am a soldier, i don't believe in anything",
+    "make me confused, mock me with praise",
+    "somebody crowd me with love, somebody force me to care",
+    "and when your heart breaks i'll be beside you",
+    "i didn't miss the cold weather i just missed you",
+    "it only takes a minute to forget a week",
+    "and then she wrapped her hands around my neck and i felt love",
+    "gone now are the old times",
+    "you can't stand the thought of a real beating heart you'd be holding",
+    "but i'll try my luck with you",
+    "he's gonna let you down",
+    "walk a mile in my shoes, and if you don't come back at least i've got nothing to lose",
+    "i think i'm spiraling, i'm spiraling downwards",
+    "my body's craving another soul that isn't mine"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
