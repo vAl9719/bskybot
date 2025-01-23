@@ -156,7 +156,12 @@ export default async function getPostText() {
     "he's gonna let you down",
     "walk a mile in my shoes, and if you don't come back at least i've got nothing to lose",
     "i think i'm spiraling, i'm spiraling downwards",
-    "my body's craving another soul that isn't mine"
+    "my body's craving another soul that isn't mine",
+    "i think to myself, 'oh what a beautiful place to die'",
+    "i'm holding your hand, i think i can see the ocean in your eyes",
+    "we'll never go home again, but i'm still the same",
+    "i have a way of waiting on my own",
+    "right here i'm safe and sound in a place that lasts forever"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
