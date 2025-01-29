@@ -73,7 +73,7 @@ export default async function getPostText() {
     "oh, way to go there, i'm dramatic, so dramatic",
     "i've given up my daydreams to dream in place of living",
     "someday, keeps me warm when the present gets too cold",
-    "fall in love with you'll one day be, but please, don't fall so hard",
+    "fall in love with who you'll one day be, but please, don't fall so hard",
     "you seem so far away, somewhere beyond your next life",
     "i just hope you smile in this one",
     "save me, somebody save me, i'm screaming for a life that i cannot have",
