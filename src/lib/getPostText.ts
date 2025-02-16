@@ -117,7 +117,7 @@ export default async function getPostText() {
     "you've got to play through the pain and ignore what's creeping in",
     "these insatiable aspirations make me whole",
     "my heart broke, and then the world broke, and then my brain broke too",
-    "and i don't know how to move forward",
+    "and i don't know how to move forward, how could i leave so much of me behind?",
     "i just don't want it to be over, i just don't want it to end",
     "all i can do is smile",
     "i don't know if this is me at all or just some ghost i've me",
@@ -161,7 +161,12 @@ export default async function getPostText() {
     "i'm holding your hand, i think i can see the ocean in your eyes",
     "we'll never go home again, but i'm still the same",
     "i have a way of waiting on my own",
-    "right here i'm safe and sound in a place that lasts forever"
+    "right here i'm safe and sound in a place that lasts forever",
+    "and i am so happy right now, i know i shouldn't be happy but i am so happy right now",
+    "what if my heart gives out? what if my mind gives out?",
+    "i can't leave yet",
+    "you're still alive, you have to live, you have to live",
+    "love never lasts, love always leaves you in the end"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
