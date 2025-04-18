@@ -165,8 +165,14 @@ export default async function getPostText() {
     "and i am so happy right now, i know i shouldn't be happy but i am so happy right now",
     "what if my heart gives out? what if my mind gives out?",
     "i can't leave yet",
+    "some day, when all my troubles here are over",
     "you're still alive, you have to live, you have to live",
-    "love never lasts, love always leaves you in the end"
+    "love never lasts, love always leaves you in the end",
+    "tell me, tell me, pretty stranger, am i really your familiar?",
+    "and i want you to ask the waiter if i really am who i say i am",
+    "i want you to put your hand on my knee, will that be alright?",
+    "i can't quite remember the last time that i wrote a love song quite as terrible as this",
+    "what do you do with a loving feeling if the loving feeling makes you all alone?"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
