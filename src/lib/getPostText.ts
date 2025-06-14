@@ -173,7 +173,11 @@ export default async function getPostText() {
     "i want you to put your hand on my knee, will that be alright?",
     "i can't quite remember the last time that i wrote a love song quite as terrible as this",
     "what do you do with a loving feeling if the loving feeling makes you all alone?",
-    "when you're nursing a heartache, sometimes you look back trying to find the reason your life has gone off track"
+    "when you're nursing a heartache, sometimes you look back trying to find the reason your life has gone off track",
+    "sitting by your side as the day drifts by",
+    "helping you hold on to a moment that made you happy",
+    "now i'm hoping that you feel all the things i feel, wishing that you want me to sit beside you",
+    "talking in a car in the afternoon, sitting by your side on a sunny day"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
