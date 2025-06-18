@@ -177,7 +177,8 @@ export default async function getPostText() {
     "sitting by your side as the day drifts by",
     "helping you hold on to a moment that made you happy",
     "now i'm hoping that you feel all the things i feel, wishing that you want me to sit beside you",
-    "talking in a car in the afternoon, sitting by your side on a sunny day"
+    "talking in a car in the afternoon, sitting by your side on a sunny day",
+    "'do you think it'll be okay?' 'i hope so.'"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
