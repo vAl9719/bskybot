@@ -5,7 +5,7 @@ export default async function getPostText() {
     "i'll be nothing again, so what am i between now and then?",
     "i don't take the sky for granted, it could fall anytime it pleases",
     "promise the next time that you take my hand is to show me the door",
-    "but i know i'm not a bad man, i know because i see me in you",
+    "but i know i'm not a bad man, i know because i see me in you",ka
     "doubt comes in and my heart falters and forgets the songs it sung",
     "they say we are asleep until we fall in love, we are children of dust and ashes",
     "last night i dreamed i met myself at a tango",
@@ -58,7 +58,7 @@ export default async function getPostText() {
     "what i know is i still love you, that's my reality",
     "you drove that train right through my heart",
     "i would kill for that thrill of first love",
-    "i was okay once, i can be okay okay again, i've not gone crazy just yet",
+    "i was okay once, i can be okay again, i've not gone crazy just yet",
     "always singing in my sleep, i will leave it in my dreams",
     "life is too short, but i will live for you",
     "and if i tell you that i'm one step closer to god",
