@@ -178,7 +178,12 @@ export default async function getPostText() {
     "helping you hold on to a moment that made you happy",
     "now i'm hoping that you feel all the things i feel, wishing that you want me to sit beside you",
     "talking in a car in the afternoon, sitting by your side on a sunny day",
-    "'do you think it'll be okay?' 'i hope so.'"
+    "'do you think it'll be okay?' 'i hope so.'",
+    "yes, i'm going nowhere, are you coming with me?",
+    "presence is the essence of what i'll become",
+    "future is a chasm that i'll crawl out from",
+    "say what you want, don't play with my heart",
+    "oh, you were my everything, i was your second best"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
