@@ -5,7 +5,7 @@ export default async function getPostText() {
     "i'll be nothing again, so what am i between now and then?",
     "i don't take the sky for granted, it could fall anytime it pleases",
     "promise the next time that you take my hand is to show me the door",
-    "but i know i'm not a bad man, i know because i see me in you",ka
+    "but i know i'm not a bad man, i know because i see me in you",
     "doubt comes in and my heart falters and forgets the songs it sung",
     "they say we are asleep until we fall in love, we are children of dust and ashes",
     "last night i dreamed i met myself at a tango",
