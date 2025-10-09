@@ -139,7 +139,7 @@ export default async function getPostText() {
     "i understand now the world will not leave me behind",
     "if i trust the ground beneath my feet it just might stay to carry me",
     "a declaration, a promise on my teeth to never leave a word without a ceremony",
-    "and if it lands on a bad number, then on well",
+    "and if it lands on a bad number, then oh well",
     "what a drag to drag you down",
     "you'd have to stop the world just to stop the feeling",
     "and when it's time to go to bed, i'll keep the nightlight on",
