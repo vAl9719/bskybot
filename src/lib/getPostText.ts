@@ -47,7 +47,7 @@ export default async function getPostText() {
     "death comes for good sons so bet on the bad",
     "mom, am i still young? can i dream for a few months more?",
     "i've got mine coming, it's just a matter of time",
-    "so we talk ourselves to hell to forget the love we never felt",
+    "so we talk about ourselves to hell to forget the love we never felt",
     "someone in this room is trying to have a beautiful moment, why won't you let them?",
     "i love you, i love you, i love you, i love you, i love you",
     "i need you to love me more, love me more, love me more, love enough to drown it out",
