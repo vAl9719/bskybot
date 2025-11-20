@@ -183,7 +183,8 @@ export default async function getPostText() {
     "presence is the essence of what i'll become",
     "future is a chasm that i'll crawl out from",
     "say what you want, don't play with my heart",
-    "oh, you were my everything, i was your second best"
+    "oh, you were my everything, i was your second best",
+    "i kinda wanna stay here, but it's time to move on"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
