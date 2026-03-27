@@ -184,7 +184,26 @@ export default async function getPostText() {
     "future is a chasm that i'll crawl out from",
     "say what you want, don't play with my heart",
     "oh, you were my everything, i was your second best",
-    "i kinda wanna stay here, but it's time to move on"
+    "i kinda wanna stay here, but it's time to move on",
+    "some stories have a sad end, some sad stories have no fucking point",
+    "in the fire, we'll get together, locking eyes like lonely dancers",
+    "and you'll see my god, and you'll be born again",
+    "what is a lie to the infinite ages",
+    "men die, but the devil ageless",
+    "and so began my second life",
+    "you give me silence, i'll be noise, noise, and noise",
+    "now all you gotta do is show me real love and affection",
+    "i guess that in a nutshell, it's hollow at the core",
+    "star eyes, i can't change the fading of a twilight",
+    "find it with me, then we'll lose it and find it again",
+    "don't wake me up until i start screaming",
+    "something i say to you, something that makes you do that thing where you smile",
+    "make it sweet, so that they won't leave you",
+    "i love you more than myself",
+    "cause i'll do anything for you to love me again",
+    "if you don't like me now, i will change for you",
+    "oh, but every time i try to make lunch for anyone else, in my head i end up dreaming of you",
+    "you come home and hold me tight as if it never happened at all"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
