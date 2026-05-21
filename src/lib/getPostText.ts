@@ -189,7 +189,7 @@ export default async function getPostText() {
     "in the fire, we'll get together, locking eyes like lonely dancers",
     "and you'll see my god, and you'll be born again",
     "what is a lie to the infinite ages",
-    "men die, but the devil ageless",
+    "men die, but the devil is ageless",
     "and so began my second life",
     "you give me silence, i'll be noise, noise, and noise",
     "now all you gotta do is show me real love and affection",
