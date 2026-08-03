@@ -203,7 +203,10 @@ export default async function getPostText() {
     "cause i'll do anything for you to love me again",
     "if you don't like me now, i will change for you",
     "oh, but every time i try to make lunch for anyone else, in my head i end up dreaming of you",
-    "you come home and hold me tight as if it never happened at all"
+    "you come home and hold me tight as if it never happened at all",
+    "i will call your name and i will lift you from the night",
+    "i ride through a tunnel, it's still dark the whole way",
+    "but who else could love me quite as kindly as you?"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
