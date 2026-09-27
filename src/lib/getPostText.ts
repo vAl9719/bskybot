@@ -206,7 +206,8 @@ export default async function getPostText() {
     "you come home and hold me tight as if it never happened at all",
     "i will call your name and i will lift you from the night",
     "i ride through a tunnel, it's still dark the whole way",
-    "but who else could love me quite as kindly as you?"
+    "but who else could love me quite as kindly as you?",
+    "where would i ever be without you?"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
