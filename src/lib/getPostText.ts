@@ -169,8 +169,6 @@ export default async function getPostText() {
     "you're still alive, you have to live, you have to live",
     "love never lasts, love always leaves you in the end",
     "tell me, tell me, pretty stranger, am i really your familiar?",
-    "and i want you to ask the waiter if i really am who i say i am",
-    "i want you to put your hand on my knee, will that be alright?",
     "i can't quite remember the last time that i wrote a love song quite as terrible as this",
     "what do you do with a loving feeling if the loving feeling makes you all alone?",
     "when you're nursing a heartache, sometimes you look back trying to find the reason your life has gone off track",
@@ -207,7 +205,9 @@ export default async function getPostText() {
     "i will call your name and i will lift you from the night",
     "i ride through a tunnel, it's still dark the whole way",
     "but who else could love me quite as kindly as you?",
-    "where would i ever be without you?"
+    "where would i ever be without you?",
+    "you don't look at me the way that you should",
+    "but hey, let's slow down, what were we even arguing about?"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
