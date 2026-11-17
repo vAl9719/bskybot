@@ -207,7 +207,8 @@ export default async function getPostText() {
     "but who else could love me quite as kindly as you?",
     "where would i ever be without you?",
     "you don't look at me the way that you should",
-    "but hey, let's slow down, what were we even arguing about?"
+    "but hey, let's slow down, what were we even arguing about?",
+    "i'm getting killed by a pretty good life"
   ];
   const ind: number = Math.floor(Math.random() * myArray.length);
   return myArray[ind];
